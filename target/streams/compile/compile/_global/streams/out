@@ -1,0 +1,18 @@
+[0m[[0m[31merror[0m] [0m[0mD:\workspace\Learning\playFramework\play-samples-play-java-hello-world-tutorial\play-samples-play-java-hello-world-tutorial\app\controllers\HomeController.java:36:1:  error: no suitable method found for ok(Result)[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(welcome(name, last_name));[0m
+[0m[[0m[31merror[0m] [0m[0m               ^    method Results.ok(Content) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to Content)[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(String) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to String)[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(JsonNode) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to JsonNode)[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(byte[]) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to byte[])[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(InputStream) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to InputStream)[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(File) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to File)[0m
+[0m[[0m[31merror[0m] [0m[0m    method Results.ok(Path) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; Result cannot be converted to Path)[0m
+[0m[[0m[31merror[0m] [0m[0mNote: Some messages have been simplified; recompile with -Xdiags:verbose to get full output[0m
+[0m[[0m[31merror[0m] [0m[0m1 error[0m
